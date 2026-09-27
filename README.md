@@ -73,11 +73,3 @@ cognevance_portfolio/
   `DB_USERNAME`, `DB_PASSWORD` as environment variables to match it.
 - Update the `@CrossOrigin` origin in `ContactController.java` from `*` to
   your actual deployed frontend domain before going live.
-
-## Submission Checklist (per Cognevance instructions)
-- [ ] Push to a GitHub repo named `cognevance_portfolioWebsite` (or similar,
-      following the `cognevance_projectName` format)
-- [ ] Include this README
-- [ ] Add screenshots/demo images of the deployed site
-- [ ] Deploy frontend + backend and add the live links here
-- [ ] Email the repo link + your experience/review to support@cognevance.online
